@@ -102,7 +102,7 @@
                 <source url="https://cdn.cocoapods.org/"/>
             </config>
             <pods>
-                <pod name="Adjust" spec="5.5.0" />
+                <pod name="Adjust/AdjustGoogleOdm" spec="5.5.0" />
             </pods>
         </podspec>
 
